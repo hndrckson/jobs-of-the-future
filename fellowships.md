@@ -87,10 +87,59 @@
 
 - _(none — first scan)_
 
-### Signal gaps / verify next loop
+---
 
-- OpenAI Safety Fellowship monthly stipend amount vs. weekly rate — cross-check $3,850/wk figure on official greenhouse/apply portal (currently only bit.ly redirect).
-- PIBBSS visa handling for non-US fellows — email pibbss.ai directly.
-- MATS Autumn 2026 application portal URL (wasn't live as of scan); re-poll [matsprogram.org/apply](https://www.matsprogram.org/apply) next loop.
-- Pivotal Research Q3 2026 cohort dates (not yet announced on pivotal-research.org as of scan).
-- Apollo Research — confirm whether 2026 junior/fellowship cohort is planned; only senior roles posted.
+## 2026-05-08
+
+### Status changes since 2026-04-13
+
+| Program | Status | Notes |
+|---------|--------|-------|
+| Anthropic Fellows (all tracks) | **CLOSED** Apr 26 | July cohort; rolling decisions underway, expect notifications May–Jun |
+| OpenAI Safety Fellowship | **CLOSED** May 3 | Decisions by Jul 25; Sep 14 – Feb 5 program |
+| Digital Sherlocks | **CLOSED** Apr 14 | Cohort running |
+| Pivotal Q3 2026 | **CLOSED** May 3 | ← was "watch" last scan, confirmed + closed in window. Decisions by May 22 |
+
+### 🆕 New this scan — actively recruiting or just opened
+
+| Program | Org | Location | Stipend | Auth Path | Deadline | Apply |
+|---------|-----|----------|---------|-----------|----------|-------|
+| 🆕 [Pivotal Research Fellowship Q3 2026](https://www.pivotal-research.org/fellowship) | Pivotal | **London (LISA)** | **£6-8k** + £2k housing + meals + compute | UK visitor-route for 9wk (EU-ok w/ Standard Visitor + invitation letter); mentors from DeepMind, UK AISI, Redwood, Apollo | **CLOSED May 3** — decisions May 22 | [link](https://www.pivotal-research.org/fellowship) |
+| 🆕 [Anthropic Institute Fellows — Economics & Policy](https://job-boards.greenhouse.io/anthropic/jobs/5183053008) | Anthropic | US/UK/CA | $3,850/wk + compute | ⚠ no visa sponsor (same Fellows policy) | Rolling / next cohort TBD | [link](https://job-boards.greenhouse.io/anthropic/jobs/5183053008) |
+| 🆕 [MATS Autumn 2026](https://www.matsprogram.org/apply) | MATS | Berkeley + London offices | $15k / 12wk + housing + travel + $12k compute | J1 well-trodden for intl fellows | **Applications should be open now** (was "late April") — check portal | [apply](https://www.matsprogram.org/apply) |
+| 🆕 [Recurse Center — batch starting May 18](https://www.recurse.com/apply) | Recurse Center | NYC (Brooklyn) or remote | **Free** + up to **$7k grant** (12wk) / $3.5k (6wk) | **EU-ok** — remote option, or B1/ESTA for in-person | **Rolling** — next batch **May 18 (10 days!)** | [apply](https://www.recurse.com/apply) |
+| [OpenAI Early Career Research Cohort](https://openai.com/careers/research-scientist-research-engineer-early-career-cohort-san-francisco/) | OpenAI | San Francisco | Full RS/RE salary ($18k+/mo) + equity | H1B (OpenAI top-tier sponsor) | Rolling — **cohort starts June 3** | [link](https://openai.com/careers/research-scientist-research-engineer-early-career-cohort-san-francisco/) |
+
+### Still open / rolling from prior scan (re-verified)
+
+| Program | Org | Status | Notes |
+|---------|-----|--------|-------|
+| [PIBBSS Fellowship](https://princint.ai/programs/fellowship/) | Principles of Intelligence | Rolling | Next cohort mid-2026 |
+| [PIBBSS × ILIAD Residency](https://princint.ai/programs/residency/) | PIBBSS + ILIAD | Jun–Aug 2026 cohort | Applied math + alignment; PhD-level |
+| [Fatima Al-Fihri Predoctoral](https://www.fatimafellowship.com/) | Fatima Institute | Rolling | Remote, unpaid, HF compute |
+| [Goodfire Research Fellow](https://job-boards.greenhouse.io/goodfire/jobs/4499053008) | Goodfire | Rolling | SF, 3mo, interpretability |
+| [UK AISI](https://www.aisi.gov.uk/careers) | UK AI Security Institute | Rolling | SW sponsor confirmed |
+
+### Dropped this scan (>30d past deadline)
+
+- **Digital Sherlocks 2026** — closed Apr 14 (24d ago, approaching 30d cutoff). Retain one more loop, then drop.
+- **ERA:AI Cambridge** — closed Apr 12 (26d ago). Retain — next Winter cycle ~Nov 2026.
+- **CBAI Summer** — closed Apr 12 (26d ago). Retain — next cycle ~Feb 2027.
+- **LASR Labs Summer 2026** — closed Mar 30 (**39d ago — DROP**).
+
+### Updated recommendations for EU national w/ BSc + no existing US/UK/CA auth
+
+1. **MATS Autumn 2026** — should be open NOW. Berkeley, J1 route, $15k + housing. Top priority action.
+2. **Recurse Center** — batch starts May 18 (10 days!). Free, remote-ok, $7k grant. Zero visa friction for remote. Self-directed ML/safety projects welcome.
+3. **OpenAI Early Career Research Cohort** — starts June 3, full salary, H1B sponsor. High bar but explicit new-grad/early-career track.
+4. **SPAR Autumn 2026** (opens ~July) — remote, unpaid but zero friction. Build publication record.
+5. **UK AISI** — rolling, SW sponsor confirmed. Government-scale pay.
+6. **Cambridge ERA:AI Winter 2026-27** — set calendar for ~Nov 2026. Explicit visa support.
+7. **Pivotal Q3** — just closed (May 3). If missed, watch for Q4/2027 announcement ~Aug.
+
+### Resolved signal gaps from prior scan
+
+- ✅ Pivotal Q3 2026: confirmed Jun 29 – Aug 28, £6-8k, deadline was May 3.
+- ✅ OpenAI Safety Fellowship stipend: $3,850/wk confirmed on official page.
+- ⏳ MATS Autumn portal: "late April" target but no explicit URL change detected yet — re-check this week.
+- ⏳ PIBBSS visa handling: still unverified.
