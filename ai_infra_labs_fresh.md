@@ -130,3 +130,55 @@
 ### Dropped this scan (>15d old)
 
 - _(none — first scan of ai_infra_labs_fresh.md)_
+
+---
+
+## 2026-05-08
+
+> Window: posts since 2026-04-23. Roles from prior scan older than 15d dropped from "fresh" (still valid, just not new).
+
+### 🆕 Frontier labs — new or confirmed-fresh
+
+| Role | Org | Location | Comp | Visa | Apply |
+|------|-----|----------|------|------|-------|
+| 🆕 [RE/RS, Frontier Red Team (Cyber)](https://job-boards.greenhouse.io/anthropic/jobs/5076477008) | Anthropic | US/UK | IC band | H1B + SW (explicit) | [link](https://job-boards.greenhouse.io/anthropic/jobs/5076477008) |
+| 🆕 [RE, Frontier Red Team (Autonomy)](https://job-boards.greenhouse.io/anthropic/jobs/5067100008) | Anthropic | US/UK | IC band | H1B + SW | [link](https://job-boards.greenhouse.io/anthropic/jobs/5067100008) |
+| 🆕 [RE, Discovery](https://job-boards.greenhouse.io/anthropic/jobs/4669581008) | Anthropic | US | IC band | H1B | [link](https://job-boards.greenhouse.io/anthropic/jobs/4669581008) |
+| 🆕 [RE, Reward Models Platform](https://job-boards.greenhouse.io/anthropic/jobs/5024831008) | Anthropic | US | IC band | H1B | [link](https://job-boards.greenhouse.io/anthropic/jobs/5024831008) |
+| 🆕 [Anthropic Institute Fellows — Econ & Policy](https://job-boards.greenhouse.io/anthropic/jobs/5183053008) | Anthropic | US/UK/CA | $3,850/wk | ⚠ no visa sponsor (fellows) | [link](https://job-boards.greenhouse.io/anthropic/jobs/5183053008) |
+| 🆕 [RS/RE, Early Career Cohort (starts Jun 3)](https://openai.com/careers/research-scientist-research-engineer-early-career-cohort-san-francisco/) | OpenAI | SF | full RS/RE salary + equity | H1B | [link](https://openai.com/careers/research-scientist-research-engineer-early-career-cohort-san-francisco/) |
+| 🆕 [SWE, Applied Emerging Talent (0-3 yrs)](https://www.builtinsf.com/job/software-engineer-applied-emerging-talent-2026/7150274) | OpenAI | SF | new-grad/early-career | H1B | [link](https://www.builtinsf.com/job/software-engineer-applied-emerging-talent-2026/7150274) |
+| 🆕 [RE, Applied AI Engineering](https://openai.com/careers/research-engineer-applied-ai-engineering-san-francisco/) | OpenAI | SF | mid/sr | H1B | [link](https://openai.com/careers/research-engineer-applied-ai-engineering-san-francisco/) |
+| 🆕 MTS — Safety/Security | xAI | Palo Alto | IC band ($73-440k range cited) | H1B | [careers](https://x.ai/careers/open-roles) |
+| 🆕 MTS — Web Foundations | xAI | Palo Alto | same | H1B | [careers](https://x.ai/careers/open-roles) |
+| 🆕 MTS — X Search | xAI | Palo Alto | same | H1B | [careers](https://x.ai/careers/open-roles) |
+
+### 🆕 European frontier labs — fresh
+
+| Role | Org | Location | Comp | Visa | Apply |
+|------|-----|----------|------|------|-------|
+| [ML Eng, Open-Source Software](https://jobs.lever.co/mistral/ef4c26fc-3fdb-4dd2-a64e-95264ee769dd) | Mistral AI | Paris / London | $200-387k range cited | EU-citizen friendly; SW for non-EU | [link](https://jobs.lever.co/mistral/ef4c26fc-3fdb-4dd2-a64e-95264ee769dd) |
+| [SWE, Backend (Paris)](https://jobs.lever.co/mistral/e76d2957-2bf6-4d8f-90a2-29bf9a927823) | Mistral AI | Paris | same | EU-citizen friendly | [link](https://jobs.lever.co/mistral/e76d2957-2bf6-4d8f-90a2-29bf9a927823) |
+| [Security Ops Eng](https://jobs.ashbyhq.com/cohere) | Cohere | London | not stated | SW (Cohere UK) | [careers](https://jobs.ashbyhq.com/cohere) |
+
+### 🆕 Infra / silicon — fresh or re-verified
+
+| Role | Org | Location | Comp | Visa | Apply |
+|------|-----|----------|------|------|-------|
+| CoreWeave — 269 open positions (eng/infra heavy) | CoreWeave | NJ / multi-US / remote | $65-185k+ per role | H1B | [careers](https://www.coreweave.com/careers/job) |
+| Cerebras — 84 open (incl. ML research + inference platform) | Cerebras | Sunnyvale / Toronto | research-to-principal | H1B + CA-route | [careers](https://www.cerebras.ai/join-us) |
+| Groq — 17 open (ASIC DV, compiler, TPM) | Groq | Mountain View | $143-336k | H1B | [careers](https://groq.com/careers) |
+
+### Dropped from fresh (>15d since Apr 13 scan)
+
+- DeepMind: Principal Eng Gemini App Infra, Director Eng Create, Sr Motion Designer, Talent Ops (still valid jobs, just no longer "fresh")
+- xAI: Engineering Lead Consumer Subscriptions
+- OpenAI: Full Stack SWE Jobs Platform (Apr 8), Tech Deploy Lead Tokyo (Apr 7), Researcher Safety & Privacy (Apr 7)
+- Cerebras: DC Commissioning Lead, Director of Construction, Network Fiber Eng (likely still open but not re-verified as "new")
+
+### Watch next loop
+
+- **Cohere × Aleph Alpha merger** — talks ongoing (Apr 2026). Monitor for hiring freeze or acceleration.
+- **Meta AI / FAIR** — still not explicitly queried. Paris + London hubs. Next loop.
+- **NVIDIA long-horizon agents SWE new-grad 2026** — re-verify still open (was in prior scan).
+- **Tenstorrent Toronto new-grad** — re-verify still open.
